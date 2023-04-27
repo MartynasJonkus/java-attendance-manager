@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.martynas.obj_4_gradebook.Main
+
